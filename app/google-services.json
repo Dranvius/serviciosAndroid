@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291657157045",
+    "project_id": "gestordeservicios",
+    "storage_bucket": "gestordeservicios.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291657157045:android:b1e11a13ce52fd2e4a71fc",
+        "android_client_info": {
+          "package_name": "Gestor.DeServicios_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLKdxbn_iGULURFKI_IjsntFA4raeiSdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291657157045:android:8ee47441754b46294a71fc",
+        "android_client_info": {
+          "package_name": "com.example.gestion_servicios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLKdxbn_iGULURFKI_IjsntFA4raeiSdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
